@@ -298,8 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/ssh-bruteforce-detector/issues)
 - **Documentation**: [Wiki](https://github.com/yourusername/ssh-bruteforce-detector/wiki)
-- **Security Issues**: Please report privately to [security@yourproject.com]
-
+  
 ---
 
 **⚠️ Disclaimer**: This tool is for educational and legitimate security purposes only. Always ensure you have proper authorization before analyzing log files or implementing IP blocking rules. The authors are not responsible for misuse of this tool.
