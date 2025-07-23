@@ -1,0 +1,22 @@
+# Core dependencies (built-in Python modules)
+# No external dependencies required - uses only standard library modules:
+# - re (regular expressions)
+# - argparse (command line parsing)
+# - csv (CSV file handling)
+# - json (JSON file handling)
+# - sys (system-specific parameters)
+# - os (operating system interface)
+# - datetime (date and time handling)
+# - collections (specialized container datatypes)
+# - typing (type hints)
+# - time (time-related functions)
+
+# Optional development dependencies
+pytest>=7.0.0          # For running unit tests
+flake8>=5.0.0          # For code linting
+black>=22.0.0          # For code formatting
+mypy>=1.0.0            # For type checking
+
+# Optional dependencies for enhanced functionality
+colorama>=0.4.0        # For colored terminal output (cross-platform)
+tabulate>=0.9.0        # For better table formatting in output
